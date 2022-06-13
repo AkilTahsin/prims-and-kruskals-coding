@@ -1,0 +1,4 @@
+3 3
+3750 Newyork Washington
+3923 Newyork California
+1227 Washington California

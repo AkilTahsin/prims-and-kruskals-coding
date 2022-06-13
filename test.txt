@@ -1,0 +1,12 @@
+6 11
+5 A E
+3 A B
+2 A C
+4 B D
+3 A D
+3 C D
+2 C E
+2 C F
+3 D F
+3 E F
+1 C B
